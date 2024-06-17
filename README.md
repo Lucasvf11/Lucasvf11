@@ -4,6 +4,7 @@
 
 - <b>[CompTIA Security+](https://www.credly.com/badges/ebcde202-c019-4639-895c-fd89766e9fd3/linked_in_profile)</b>
 - <b>[Google Cybersecurity Certificate](https://www.credly.com/badges/d75b7418-6712-4ad8-a20e-3beaf11afef2/linked_in_profile)</b>
+- <b>[EXIN Information Security Foundation based on ISO/IEC 27001 (ISFS)](https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=6DD738AB-0EA5-4E1B-909F-C0590E1A5A19&ts=2054585781)</b>
 
 
 <h2>Cybersecurity Projects:</h2>
