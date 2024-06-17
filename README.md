@@ -9,7 +9,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Lucasvf11/LABURL)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion shown at Azure Sentinel SIEM](https://github.com/Lucasvf11/AzureSentinelLab/)
 
 <h2> Connect with me:</h2>
 
