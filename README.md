@@ -11,6 +11,9 @@
 
 - <b>SIEM</b>
   - [Azure Sentinel: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Lucasvf11/AzureSentinelLab/)
+ 
+- <b>Cybersecurity Training Course</b>
+  - [Cybersecurity applied to Port Facilities](https://github.com/Lucasvf11/CybersecurityTrainingCourse/)
 
 <h2> Connect with me:</h2>
 
